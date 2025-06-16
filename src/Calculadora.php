@@ -1,7 +1,7 @@
 <?php
     namespace App;
 
-    //==============================================
+    //==============================================no comments===
     $miCalculadora = new Calculadora();
     $resultado = 0;
     $operandos = [];
